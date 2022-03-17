@@ -2,3 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://washmework.com/index</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/store</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/reviews</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/gallery-All</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/gallery-Pricing</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/gallery-Residential-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/gallery-Mobile-Car-Wash</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/gallery-Commercial-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Interior-Detailing</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Express-Wash</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Deluxe-Wash</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Premium-Wash</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-The-Wash-Me-Works</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Mobile-Car-Wash</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Commercial-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washmework.com/service-Residential-Cleaning</loc>
+        <lastmod>2022-03-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
